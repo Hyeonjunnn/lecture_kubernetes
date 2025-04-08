@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as r,b as t,o as n}from"./index-DqEsnwXw.js";const s={};function a(c,e){return n(),r("div",null,e[0]||(e[0]=[t("p",null,"메인 화면 입니다.",-1)]))}const m=o(s,[["render",a]]);export{m as default};
